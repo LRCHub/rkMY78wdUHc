@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファンキータウン",
+  "base_artist": "リップス",
+  "createdAt": "2026-03-02T13:17:12.806647Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Funkytown",
+      "artist": "Lipps, Inc.",
+      "has_synced": false,
+      "path": "select/pl_01_Funkytown_Lipps,_Inc..txt"
+    }
+  ]
+}
