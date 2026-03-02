@@ -1,0 +1,62 @@
+# リップス – ファンキータウン
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Gotta make a move to a
+Town that's right for me
+Town to keep me movin'
+Keep me groovin' with some
+energy
+Well, I talk about it
+Talk about it
+Talk about it
+Talk about it
+Talk about, talk about
+Talk about movin'
+Gotta move on
+Gotta move on
+Gotta move on
+A-won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Won't you take me to
+Funkytown?
+Gotta make a move to a
+Town that's right for me
+Town to keep me movin'
+Keep me groovin' with some
+energy
+Well, I talk about it
+Talk about it
+Talk about it
+Talk about it
+Talk about, talk about
+Talk about movin'
+Gotta move on
+Gotta move on
+Gotta move on
+(Won't you take me to)
+Funkytown?
+(Won't you take me to)
+Funkytown?
+(Won't you take me to)
+Funkytown?
+(Won't you take me to)
+Funkytown?
+Won't you take me down to
+Funkytown?
+Won't you take me down to
+Funkytown?
+```
